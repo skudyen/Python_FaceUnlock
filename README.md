@@ -4,10 +4,10 @@
 &nbsp;-เลือก "Download Build Tools"<br>
 &nbsp;-ในหน้าติดตั้งให้ติ๊ก:<br>
 &nbsp;&nbsp;-Desktop development with C++ ✅\n<br>
-&nbsp;&nbsp;&nbsp;-MSVC v143 ✅<br>
-&nbsp;&nbsp;&nbsp;-Windows 11 SDK ✅<br>
-&nbsp;&nbsp;&nbsp;-C++ CMake tools ✅<br>
-&nbsp;&nbsp;&nbsp;-C++ build tools core features ✅<br>
+&nbsp;&nbsp;&nbsp;    -MSVC v143 ✅<br>
+&nbsp;&nbsp;&nbsp;    -Windows 11 SDK ✅<br>
+&nbsp;&nbsp;&nbsp;    -C++ CMake tools ✅<br>
+&nbsp;&nbsp;&nbsp;    -C++ build tools core features ✅<br>
 
 2.Download Git https://git-scm.com/downloads
 

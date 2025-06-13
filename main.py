@@ -2,7 +2,7 @@ import subprocess
 import os
 import sys
 
-PYTHON_CMD = 'python3' if sys.platform != 'win32' else 'python'
+PYTHON_CMD = os.path.join(sys.prefix, 'Scripts', 'python.exe')
 
 menu = """
 ===== Face Unlock System =====

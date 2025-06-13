@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;รัน git clone https://github.com/skudyen/Python_FaceUnlock.git
 
 4.จากนั้นเข้าไปใน Folder ที่ Clone มารัน .\setup.bat <br>
-4.1 ดูว่ามีโฟลเดอร์ venv ไหมถ้าไม่รัน python -m venv venv
+4.1 ดูว่ามีโฟลเดอร์ venv ไหมถ้าไม่มีให้รัน python -m venv venv  
 
 5.เมิ้อติดตั้ง Lib เสร็จให้รัน .\venv\Scripts\activate.bat <br>
 

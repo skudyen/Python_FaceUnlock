@@ -1,13 +1,13 @@
 วิธีการใช้งาน
 
-1.Download https://visualstudio.microsoft.com/visual-cpp-build-tools
-  -เลือก "Download Build Tools"
-  -ในหน้าติดตั้งให้ติ๊ก:
-    -Desktop development with C++ ✅\n
-      -MSVC v143 ✅
-      -Windows 11 SDK ✅
-      -C++ CMake tools ✅
-      -C++ build tools core features ✅
+1.Download https://visualstudio.microsoft.com/visual-cpp-build-tools<br>
+  -เลือก "Download Build Tools"<br>
+  -ในหน้าติดตั้งให้ติ๊ก:<br>
+    -Desktop development with C++ ✅\n<br>
+      -MSVC v143 ✅<br>
+      -Windows 11 SDK ✅<br>
+      -C++ CMake tools ✅<br>
+      -C++ build tools core features ✅<br>
 
 2.Download Git https://git-scm.com/downloads
 

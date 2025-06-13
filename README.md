@@ -18,7 +18,7 @@
   โดยโหลด https://drive.google.com/drive/folders/10rvqs55VgQZqcP0v5W6xElDyUAPNyCFu?usp=sharing แล้วนำไฟล์ .pt ไปใ่ส่ใน Folder weigths
   ส่วน Folder data ปล่อยว่างไว้
 8.รันโปรแกรม python .\main.py
-----------------------------------------------------------------------------------------------------
+
 Etc ...
 Folder must be like this:
 

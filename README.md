@@ -12,7 +12,7 @@
 2.Download Git https://git-scm.com/downloads
 
 3.ทำการ Git Clone โดยเปิด Terminal<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;รัน git clone 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;รัน git clone https://github.com/skudyen/Python_FaceUnlock.git
 
 4.จากนั้นเข้าไปใน Folder ที่ Clone มารัน .\setup.bat <br>
 
